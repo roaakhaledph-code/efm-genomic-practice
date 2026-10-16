@@ -1,0 +1,300 @@
+The RAST algorithm was applied to annotating a genome sequence comprised of 2 contigs containing 2913126 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3160 new features were called, of which 312 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2848 
+	Non-coding repeat                225 
+	Non-coding rna                    87 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_030316155.1_A2_blood_Korea.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 3 contigs containing 3017686 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3624 new features were called, of which 431 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3193 
+	Non-coding repeat                367 
+	Non-coding rna                    64 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_002997345.1_13-009_Rectal_France.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 5 contigs containing 3126139 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3528 new features were called, of which 390 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3138 
+	Non-coding repeat                301 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_002848725.1_ER04526.A_blood_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 5 contigs containing 3139512 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3550 new features were called, of which 395 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3155 
+	Non-coding repeat                306 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_002777275.1_E232_wound_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 5 contigs containing 3185609 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3573 new features were called, of which 357 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3216 
+	Non-coding repeat                267 
+	Non-coding rna                    90 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_003020725.1_AUSMDU_blood_Australlia.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 11 contigs containing 3172186 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3555 new features were called, of which 361 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3194 
+	Non-coding repeat                275 
+	Non-coding rna                    86 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_004302885.1_V24_GIT_Denmark.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 2 contigs containing 2493074 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 2749 new features were called, of which 253 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2496 
+	Non-coding repeat                166 
+	Non-coding rna                    87 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_007923905.2_HN11_chicken-China.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 5 contigs containing 3208737 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3598 new features were called, of which 367 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3231 
+	Non-coding repeat                278 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_001886635.1_E1_blood_Spain.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 4 contigs containing 3019780 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3383 new features were called, of which 286 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3097 
+	Non-coding repeat                221 
+	Non-coding rna                    65 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_000250945.1_Aus0004_blood_Australlia.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 4 contigs containing 3052572 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3450 new features were called, of which 327 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3123 
+	Non-coding repeat                245 
+	Non-coding rna                    82 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_000174395.2__DO_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 2 contigs containing 2711892 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3152 new features were called, of which 276 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2876 
+	Non-coding repeat                199 
+	Non-coding rna                    77 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_019774555.1_E843-TC_swine_China.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 1 contigs containing 2736390 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 2957 new features were called, of which 284 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2673 
+	Non-coding repeat                195 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_009938075.1_ZY11_urine_China.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 6 contigs containing 3292484 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 4276 new features were called, of which 583 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3693 
+	Non-coding repeat                494 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_026073255.1_JHP10_stool_Japan.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 2 contigs containing 2615201 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 2858 new features were called, of which 240 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2618 
+	Non-coding repeat                151 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_004332055.1_FSIS_cattle_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 3 contigs containing 2874010 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3202 new features were called, of which 310 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2892 
+	Non-coding repeat                221 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_018517045.1_17-508_urine_France.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 2 contigs containing 2710422 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 2931 new features were called, of which 240 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2691 
+	Non-coding repeat                153 
+	Non-coding rna                    87 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_002983785.1_FDAAROGOS_blood_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 6 contigs containing 3173447 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3635 new features were called, of which 452 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3183 
+	Non-coding repeat                363 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_021228615.1_NMVRE-001_blood_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 7 contigs containing 3172134 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3601 new features were called, of which 415 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3186 
+	Non-coding repeat                326 
+	Non-coding rna                    89 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_016406605.1_Dallas93_rectal_USA.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 7 contigs containing 3151778 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 3564 new features were called, of which 386 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     3178 
+	Non-coding repeat                298 
+	Non-coding rna                    88 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_017815655.1_VB12993_blood_India.fna_assembly succeeded!
+
+The RAST algorithm was applied to annotating a genome sequence comprised of 1 contigs containing 2676947 nucleotides. 
+No initial gene calls were provided.
+Standard features were called using: glimmer3; prodigal.
+A scan was conducted for the following additional feature types: rRNA; tRNA; selenoproteins; pyrrolysoproteins; repeat regions; crispr.
+The genome features were functionally annotated using the following algorithm(s): Kmers V2; Kmers V1; protein similarity.
+In addition to the remaining original 0 coding features and 0 non-coding features, 2887 new features were called, of which 162 are non-coding.
+Output genome has the following feature types:
+	Coding gene                     2725 
+	Non-coding repeat                109 
+	Non-coding rna                    53 
+Overall, the genes have 0 distinct functions. 
+The genes include 0 genes with a SEED annotation ontology across 0 distinct SEED functions.
+The number of distinct functions can exceed the number of genes because some genes have multiple functions.
+GCA_036884325.1_QD-2_cheese_Mexico.fna_assembly succeeded!
+

@@ -1,0 +1,23 @@
+Bin Name	Marker Lineage	# Genomes	# Markers	# Marker Sets	0	1	2	3	4	5+	Completeness	Contamination
+GCA_000174395.2__DO_USA.fna_assembly	o__Lactobacillales	293	475	267	3	470	2	0	0	0	99.25	0.44
+GCA_000250945.1_Aus0004_blood_Australlia.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_001886635.1_E1_blood_Spain.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_002777275.1_E232_wound_USA.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_002848725.1_ER04526.A_blood_USA.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_002983785.1_FDAAROGOS_blood_USA.fna_assembly	o__Lactobacillales	293	475	267	2	473	0	0	0	0	99.25	0.0
+GCA_002997345.1_13-009_Rectal_France.fna_assembly	o__Lactobacillales	293	475	267	1	473	1	0	0	0	99.63	0.37
+GCA_003020725.1_AUSMDU_blood_Australlia.fna_assembly	o__Lactobacillales	293	475	267	2	473	0	0	0	0	99.44	0.0
+GCA_004302885.1_V24_GIT_Denmark.fna_assembly	o__Lactobacillales	293	475	267	1	472	2	0	0	0	99.63	0.5
+GCA_004332055.1_FSIS_cattle_USA.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_007923905.2_HN11_chicken-China.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_009938075.1_ZY11_urine_China.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_012045365.1_BIOPOP_dairy_Korea.fna_assembly	o__Lactobacillales	293	475	267	1	472	2	0	0	0	99.63	0.75
+GCA_015377765.1_TK-P5D_probiotic_China.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_016406605.1_Dallas93_rectal_USA.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_017815655.1_VB12993_blood_India.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_018517045.1_17-508_urine_France.fna_assembly	o__Lactobacillales	293	475	267	1	473	1	0	0	0	99.63	0.37
+GCA_019774555.1_E843-TC_swine_China.fna_assembly	o__Lactobacillales	293	475	267	2	465	7	1	0	0	99.25	2.87
+GCA_021228615.1_NMVRE-001_blood_USA.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
+GCA_026073255.1_JHP10_stool_Japan.fna_assembly	o__Lactobacillales	293	475	267	3	469	3	0	0	0	99.16	0.62
+GCA_030316155.1_A2_blood_Korea.fna_assembly	o__Lactobacillales	293	475	267	1	473	1	0	0	0	99.63	0.06
+GCA_036884325.1_QD-2_cheese_Mexico.fna_assembly	o__Lactobacillales	293	475	267	1	474	0	0	0	0	99.63	0.0
